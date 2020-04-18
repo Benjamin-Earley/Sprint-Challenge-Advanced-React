@@ -1,7 +1,7 @@
 exports.data = [
   { name: "Alex Morgan", country: "United States", searches: 100 },
   { name: "Megan Rapinoe", country: "United States", searches: 99 },
-  { name: "Marta", country: "Brazil", searches: 18 },
+  { name: "Marta Vieira da Silva", country: "Brazil", searches: 18 },
   { name: "Rose Lavelle", country: "United States", searches: 11 },
   { name: "Carli Lloyd", country: "United States", searches: 9 },
   { name: "Julie Ertz", country: "United States", searches: 8 },
